@@ -1,3 +1,4 @@
-  Portfoloio page
-  Webshop with wordpress
+  Javascript Portfoloio page.
+  Webshop with wordpress.
+  Regristration page.
   
